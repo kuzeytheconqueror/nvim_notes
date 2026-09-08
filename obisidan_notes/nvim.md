@@ -4,4 +4,10 @@ notes to learn nvim.
 
 # Resources
 - nvim
-	- :Tutorial
+	- :Tutor
+
+
+## Current part. 
+- Lesson 0 
+
+:
