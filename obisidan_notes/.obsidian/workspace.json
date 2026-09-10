@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nvim.md",
+                "file": "classic/tutorial_for_nvim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nvim"
+              "title": "tutorial_for_nvim"
             }
           }
         ]
@@ -190,11 +190,17 @@
   },
   "active": "fc094a76f49d6a20",
   "lastOpenFiles": [
+    "Tutor/Lesson 6 - Open Append Replace Yank.md",
+    "Tutor/Lesson 7 - Help and Config.md",
+    "Tutor/Lesson 1 - Basics.md",
+    "Tutor/Lesson 0 - Orientation.md",
+    "Cheatsheet.md",
     "classic/tutorial_for_nvim.md",
+    "Tutor/Lesson 2 - Deleting.md",
+    "nvim.md",
     "tutorial_for_nvim.md",
     "tutorial_for_nvim.txt",
     "classic/notes.md",
-    "nvim.md",
     "classic"
   ]
 }
