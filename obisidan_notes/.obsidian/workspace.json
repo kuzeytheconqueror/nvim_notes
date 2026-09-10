@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "classic/tutorial_for_nvim.md",
+                "file": "Tutor/Lesson 6 - Open Append Replace Yank.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tutorial_for_nvim"
+              "title": "Lesson 6 - Open Append Replace Yank"
             }
           }
         ]
@@ -190,12 +190,15 @@
   },
   "active": "fc094a76f49d6a20",
   "lastOpenFiles": [
-    "Tutor/Lesson 6 - Open Append Replace Yank.md",
+    "Tutor/Lesson 5 - Shell and Files.md",
+    "Tutor/Lesson 4 - Navigation and Search.md",
+    "Tutor/Lesson 3 - Put Replace Change.md",
     "Tutor/Lesson 7 - Help and Config.md",
-    "Tutor/Lesson 1 - Basics.md",
+    "Tutor/Lesson 6 - Open Append Replace Yank.md",
     "Tutor/Lesson 0 - Orientation.md",
-    "Cheatsheet.md",
     "classic/tutorial_for_nvim.md",
+    "Tutor/Lesson 1 - Basics.md",
+    "Cheatsheet.md",
     "Tutor/Lesson 2 - Deleting.md",
     "nvim.md",
     "tutorial_for_nvim.md",
